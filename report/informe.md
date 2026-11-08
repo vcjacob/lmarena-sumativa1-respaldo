@@ -144,9 +144,9 @@ Condiciones impuestas por el dato o por el contexto, distintas de las decisiones
 - **Convención:** commits en inglés con el formato `type(scope): message` (`feat`, `fix`, `docs`, `data`, `build`, `test`, `refactor`); ramas `f1/<tema>`, `f2/<tema>` y `docs/<tema>`; integración a `main` mediante pull request, sin squash.
 - **Historial:** commits pequeños desde el inicio del trabajo, con un cambio por commit.
 
-`[PENDIENTE]` Contribuciones de los demás integrantes: hoy el historial tiene un solo autor. La rúbrica exige commits identificables por integrante y repartidos en el tiempo.
-`[PENDIENTE]` Capturas del historial, de las ramas y de los pull requests.
-`TODO(humano)` Nombres de usuario de GitHub de cada integrante.
+El historial de la rama `main` registra contribuciones de las cuentas `JoseFredes`, `poirierunited` y `vcjacob`. `[PENDIENTE]` La incorporación de las contribuciones de `angelo-morales-serrano` está pendiente, por lo que este apartado se actualizará una vez que sus cambios hayan sido integrados a `main` mediante un PR. 
+- `[PENDIENTE]` Capturas del historial, de las ramas y de los pull requests.
+- **Usuarios de GitHub identificados:** `JoseFredes`, `poirierunited`, `vcjacob` y `angelo-morales-serrano` (no tiene commits registrados en `main`).
 
 ---
 
